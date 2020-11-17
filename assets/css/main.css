@@ -3933,7 +3933,7 @@ input, select, textarea {
 						background: #e44c65;
 						color: rgba(255, 255, 255, 0.5);
 						content: '\f0c9';
-						display: block;
+						display: none;
 						font-size: 18px;
 						height: 44px;
 						left: 0;
